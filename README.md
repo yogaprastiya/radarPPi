@@ -1,6 +1,6 @@
 # radarPPi
 
-Laporan tugas kuliah Sistem Radar dan Navigasi pada Laboratorium Telekomunikasi Radio dan Gelombang Mikro - Institut Teknologi Bandung
+Laporan tugas kuliah Sistem Radar dan Navigasi pada Laboratorium Telekomunikasi Radio dan Gelombang Mikro - Institut Teknologi Bandung email : ltrgm@stei.itb.ac.id
 
 Dosen : Dr. Joko Suryana ST MT
 
