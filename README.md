@@ -11,7 +11,3 @@ Dosen : Dr. Joko Suryana ST MT
 5.	Sri Mulyani	(23218310)
 6.	Sania Asri Monica	(23219039)
 
-Untuk menjalankan aplikasi ini anda harus menginstall java run time (JRE) minimal versi 8.23 
-menjalankan program ketik perintah berikut pada folder aplikasi
-
-user_prompt/folder>java -jar "RadarPPI.jar"
